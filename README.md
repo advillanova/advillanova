@@ -1,5 +1,5 @@
-### Welcome to my profile 🦄
-Sou estudante do curso DevQuest, onde estamos aprofundando nossos conhecimentos em HTML, CSS e Javascript. Sigo apaixonada pela área de programação e estou feliz de poder estar estudando e ser uma Front-end developer. Gosto muito de desafios e de trabalhar em equipe.
+### Welcome to my profile
+I am a life long learner developing skills in JavaScript, CSS and HTML.
 
 <div>
   <a href="https://github.com/advillanova">
